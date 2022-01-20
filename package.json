@@ -1,0 +1,21 @@
+{
+    "name": "com.aschelab.common.disposable",
+    "displayName": "AscheLib.Common.Disposable",
+    "version": "1.0.4",
+    "unity": "2018.3",
+    "description": "AscheLib common scripts",
+    "author": {
+        "name": "Syunta Washidu (AscheLab)",
+        "url": "https://github.com/AscheLab",
+        "email": "tfb00plzdj@gmail.com"
+    },
+    "license": "MIT",
+    "keywords": [],
+    "category": "",
+    "dependencies": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AscheLab/AscheLib.Common.Disposable.git"
+    }
+}
